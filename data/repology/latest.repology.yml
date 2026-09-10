@@ -1,0 +1,63 @@
+- repo: aur
+  srcname: try-rs
+  binname: try-rs
+  visiblename: try-rs
+  version: 1.7.11
+  origversion: 1.7.11-1
+  status: newest
+  summary: A blazing fast, Rust-based workspace manager for your temporary experiments
+  maintainers:
+    - lmartinez-mirror@aur
+    - tassiovirginio@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: try-rs-bin
+  binname: try-rs-bin
+  visiblename: try-rs-bin
+  version: 1.7.11
+  origversion: 1.7.11-1
+  status: newest
+  summary: try-rs is a CLI tool designed to manage the chaos of temporary projects.
+  maintainers:
+    - tassiovirginio@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: try-rs-git
+  binname: try-rs-git
+  visiblename: try-rs-git
+  version: 0.1.18.r0.g50732a1
+  origversion: 0.1.18.r0.g50732a1-1
+  status: rolling
+  summary: A blazing fast, Rust-based workspace manager for your temporary experiments
+  maintainers:
+    - lmartinez-mirror@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: sysutils/try-rs
+  binname: try-rs
+  visiblename: sysutils/try-rs
+  version: 1.7.11
+  origversion: 1.7.11_2
+  status: newest
+  summary: Workspace manager for your temporary experiments
+  maintainers:
+    - adamw@freebsd.org
+  categories:
+    - sysutils
+- repo: homebrew
+  srcname: try-rs
+  visiblename: try-rs
+  version: 1.7.11
+  origversion: null
+  status: newest
+  summary: Temporary workspace manager for fast experimentation in the terminal
+- repo: homebrew
+  srcname: try-rs
+  visiblename: try-rs
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Temporary workspace manager for fast experimentation in the terminal
