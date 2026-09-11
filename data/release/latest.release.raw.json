@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 574634,
       "digest": "sha256:6019f4c0c50e5cec3828794d0142c22e631f1b9074df6c7f186576d9b7d6e4ae",
-      "download_count": 833,
+      "download_count": 842,
       "created_at": "2026-06-11T23:48:13Z",
       "updated_at": "2026-06-11T23:48:13Z",
       "browser_download_url": "https://github.com/tassiovirginio/try-rs/releases/download/v1.7.11/try-rs-v1.7.11-linux-x86_64.tar.gz"
