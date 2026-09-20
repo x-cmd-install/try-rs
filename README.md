@@ -4,7 +4,7 @@
 
 A blazing fast, Rust-based workspace manager for your temporary experiments.
 
-![try-rs](https://repo.x-cmd.io/try-rs.svg)
+[![x-cmd/install — try-rs Code Quality Monitoring Repo Card](https://repo.x-cmd.io/try-rs.svg)](https://x-cmd.com/install/try-rs)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **7,501** lines of code across **19** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 287 · **Forks**: 16 · **Open issues**: 30 · **Contributors**: 10
+- **Stars**: 288 · **Forks**: 16 · **Open issues**: 30 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **7,501** lines of code across **19** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 2 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last180d | 2026-03-22 | 11 | 5 | 0 | 8 | 0 | 45 |
-| 360d | 2025-09-23 | 84 | 31 | 0 | 30 | 0 | 419 |
-| last720d | 2024-09-28 | 84 | 31 | 0 | 30 | 0 | 447 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 2 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last180d | 2026-03-24 | 11 | 5 | 0 | 8 | 0 | 34 |
+| 360d | 2025-09-25 | 84 | 31 | 0 | 30 | 0 | 419 |
+| last720d | 2024-09-30 | 84 | 31 | 0 | 30 | 0 | 447 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for try-rs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:56:56Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:53:20Z._
