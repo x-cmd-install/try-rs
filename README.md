@@ -38,22 +38,22 @@ Total: **7,501** lines of code across **19** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 294 · **Forks**: 17 · **Open issues**: 32 · **Contributors**: 10
+- **Stars**: 294 · **Forks**: 17 · **Open issues**: 33 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 31 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 2 · **Commits**: 447
+- **Releases**: 84 · **Merged PRs**: 31 · **Open PRs**: 1 · **Closed issues**: 30 · **Open issues**: 3 · **Commits**: 447
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 90d | 2026-07-23 | 0 | 0 | 0 | 0 | 2 | 2 |
-| last180d | 2026-04-24 | 3 | 3 | 0 | 2 | 2 | 17 |
-| 360d | 2025-10-26 | 84 | 31 | 0 | 30 | 2 | 419 |
-| last720d | 2024-10-31 | 84 | 31 | 0 | 30 | 2 | 447 |
+| 30d | 2026-09-22 | 0 | 0 | 1 | 0 | 3 | 0 |
+| last60d | 2026-08-23 | 0 | 0 | 1 | 0 | 3 | 0 |
+| 90d | 2026-07-24 | 0 | 0 | 1 | 0 | 3 | 2 |
+| last180d | 2026-04-25 | 3 | 3 | 1 | 2 | 3 | 17 |
+| 360d | 2025-10-27 | 84 | 31 | 1 | 30 | 3 | 419 |
+| last720d | 2024-11-01 | 84 | 31 | 1 | 30 | 3 | 447 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for try-rs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:30:55Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:34:39Z._
