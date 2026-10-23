@@ -48,12 +48,12 @@ Total: **7,501** lines of code across **19** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 1 | 0 | 3 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 1 | 0 | 3 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 1 | 0 | 3 | 2 |
-| last180d | 2026-04-25 | 3 | 3 | 1 | 2 | 3 | 17 |
-| 360d | 2025-10-27 | 84 | 31 | 1 | 30 | 3 | 419 |
-| last720d | 2024-11-01 | 84 | 31 | 1 | 30 | 3 | 447 |
+| 30d | 2026-09-23 | 0 | 0 | 1 | 0 | 3 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 1 | 0 | 3 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 1 | 0 | 3 | 2 |
+| last180d | 2026-04-26 | 3 | 3 | 1 | 2 | 3 | 17 |
+| 360d | 2025-10-28 | 84 | 31 | 1 | 30 | 3 | 419 |
+| last720d | 2024-11-02 | 84 | 31 | 1 | 30 | 3 | 447 |
 
 ## Release assets
 
@@ -64,6 +64,14 @@ Total: **7,501** lines of code across **19** files in the top 5 languages.
 | [try-rs-windows-x86_64.exe](https://github.com/tassiovirginio/try-rs/releases/download/v1.7.11/try-rs-windows-x86_64.exe) | 886.5 KiB | `native/win/x64` |
 | [try-rs_1.7.11-1_amd64.deb](https://github.com/tassiovirginio/try-rs/releases/download/v1.7.11/try-rs_1.7.11-1_amd64.deb) | 463.3 KiB | `runtime/deb/amd64` |
 
+## Distribution status
+
+Reported by **6** distros on [repology.org](https://repology.org/project/try-rs). **4** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `HEAD` | 🔄 rolling |
+
 ## Improve this data
 
 Install metadata for try-rs lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `try-rs` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -73,4 +81,4 @@ Install metadata for try-rs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:34:39Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:45:43Z._
