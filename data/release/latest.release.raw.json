@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 574634,
       "digest": "sha256:6019f4c0c50e5cec3828794d0142c22e631f1b9074df6c7f186576d9b7d6e4ae",
-      "download_count": 1371,
+      "download_count": 1385,
       "created_at": "2026-06-11T23:48:13Z",
       "updated_at": "2026-06-11T23:48:13Z",
       "browser_download_url": "https://github.com/tassiovirginio/try-rs/releases/download/v1.7.11/try-rs-v1.7.11-linux-x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 474380,
       "digest": "sha256:7cc67efa0d457a66764a35a27416be376300517fe357078c2eaf367c32fb0794",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-06-11T23:48:32Z",
       "updated_at": "2026-06-11T23:48:32Z",
       "browser_download_url": "https://github.com/tassiovirginio/try-rs/releases/download/v1.7.11/try-rs_1.7.11-1_amd64.deb"
