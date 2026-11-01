@@ -48,12 +48,12 @@ Total: **7,501** lines of code across **19** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-09-01 | 0 | 0 | 1 | 0 | 3 | 0 |
-| 90d | 2026-08-02 | 0 | 0 | 1 | 0 | 3 | 2 |
-| last180d | 2026-05-04 | 3 | 3 | 1 | 0 | 3 | 15 |
-| 360d | 2025-11-05 | 84 | 31 | 1 | 30 | 3 | 419 |
-| last720d | 2024-11-10 | 84 | 31 | 1 | 30 | 3 | 447 |
+| 30d | 2026-10-02 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-09-02 | 0 | 0 | 1 | 0 | 3 | 0 |
+| 90d | 2026-08-03 | 0 | 0 | 1 | 0 | 3 | 2 |
+| last180d | 2026-05-05 | 3 | 3 | 1 | 0 | 3 | 11 |
+| 360d | 2025-11-06 | 84 | 31 | 1 | 30 | 3 | 419 |
+| last720d | 2024-11-11 | 84 | 31 | 1 | 30 | 3 | 447 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for try-rs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:28:24Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:54:51Z._
