@@ -14,14 +14,14 @@ x install try-rs
 
 ## Code insight
 
-Total: **7,642** lines of code across **19** files in the top 5 languages.
+Total: **8,291** lines of code across **19** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 7,403 | 87 | 749 | 15 |
+| Rust | 8,048 | 92 | 769 | 15 |
 | Nix | 116 | 0 | 20 | 1 |
 | Toml | 83 | 1 | 12 | 1 |
-| Sh | 34 | 13 | 11 | 1 |
+| Sh | 38 | 14 | 13 | 1 |
 | Json | 6 | 0 | 0 | 1 |
 
 ## Source
@@ -32,8 +32,8 @@ Total: **7,642** lines of code across **19** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.7.12` (2026-11-05)
-- **Last commit**: 2026-11-05
+- **Latest**: `v1.7.13` (2026-11-07)
+- **Last commit**: 2026-11-07
 - **Assets in release**: 4
 
 ## Popularity
@@ -42,35 +42,35 @@ Total: **7,642** lines of code across **19** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 85 · **Merged PRs**: 32 · **Open PRs**: 0 · **Closed issues**: 33 · **Open issues**: 0 · **Commits**: 453
+- **Releases**: 86 · **Merged PRs**: 32 · **Open PRs**: 0 · **Closed issues**: 33 · **Open issues**: 0 · **Commits**: 456
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 1 | 1 | 0 | 1 | 0 | 5 |
-| last60d | 2026-09-08 | 1 | 1 | 0 | 3 | 0 | 5 |
-| 90d | 2026-08-09 | 1 | 1 | 0 | 3 | 0 | 7 |
-| last180d | 2026-05-11 | 4 | 3 | 0 | 3 | 0 | 16 |
-| 360d | 2025-11-12 | 85 | 32 | 0 | 33 | 0 | 424 |
-| last720d | 2024-11-17 | 85 | 32 | 0 | 33 | 0 | 453 |
+| 30d | 2026-10-09 | 2 | 1 | 0 | 1 | 0 | 8 |
+| last60d | 2026-09-09 | 2 | 1 | 0 | 3 | 0 | 8 |
+| 90d | 2026-08-10 | 2 | 1 | 0 | 3 | 0 | 10 |
+| last180d | 2026-05-12 | 5 | 3 | 0 | 3 | 0 | 17 |
+| 360d | 2025-11-13 | 86 | 32 | 0 | 33 | 0 | 427 |
+| last720d | 2024-11-18 | 86 | 32 | 0 | 33 | 0 | 456 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [try-rs-v1.7.12-linux-x86_64.tar.gz](https://github.com/tassiovirginio/try-rs/releases/download/v1.7.12/try-rs-v1.7.12-linux-x86_64.tar.gz) | 564.2 KiB | `native/linux/x64` |
-| [try-rs-v1.7.12-linux-x86_64.tar.gz.sha256](https://github.com/tassiovirginio/try-rs/releases/download/v1.7.12/try-rs-v1.7.12-linux-x86_64.tar.gz.sha256) | 101 B | `native/linux/x64` |
-| [try-rs-windows-x86_64.exe](https://github.com/tassiovirginio/try-rs/releases/download/v1.7.12/try-rs-windows-x86_64.exe) | 899.5 KiB | `native/win/x64` |
-| [try-rs_1.7.12-1_amd64.deb](https://github.com/tassiovirginio/try-rs/releases/download/v1.7.12/try-rs_1.7.12-1_amd64.deb) | 466.4 KiB | `runtime/deb/amd64` |
+| [try-rs-v1.7.13-linux-x86_64.tar.gz](https://github.com/tassiovirginio/try-rs/releases/download/v1.7.13/try-rs-v1.7.13-linux-x86_64.tar.gz) | 567.7 KiB | `native/linux/x64` |
+| [try-rs-v1.7.13-linux-x86_64.tar.gz.sha256](https://github.com/tassiovirginio/try-rs/releases/download/v1.7.13/try-rs-v1.7.13-linux-x86_64.tar.gz.sha256) | 101 B | `native/linux/x64` |
+| [try-rs-windows-x86_64.exe](https://github.com/tassiovirginio/try-rs/releases/download/v1.7.13/try-rs-windows-x86_64.exe) | 905.0 KiB | `native/win/x64` |
+| [try-rs_1.7.13-1_amd64.deb](https://github.com/tassiovirginio/try-rs/releases/download/v1.7.13/try-rs_1.7.13-1_amd64.deb) | 469.6 KiB | `runtime/deb/amd64` |
 
 ## Distribution status
 
-Reported by **6** distros on [repology.org](https://repology.org/project/try-rs). **4** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+Reported by **6** distros on [repology.org](https://repology.org/project/try-rs). **3** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `1.7.12` | ✅ latest |
+| Homebrew | `1.7.13` | ✅ latest |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for try-rs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:57:13Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:57:43Z._
