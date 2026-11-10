@@ -38,22 +38,22 @@ Total: **8,291** lines of code across **19** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 293 · **Forks**: 17 · **Open issues**: 33 · **Contributors**: 11
+- **Stars**: 293 · **Forks**: 18 · **Open issues**: 33 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 32 · **Open PRs**: 0 · **Closed issues**: 33 · **Open issues**: 0 · **Commits**: 456
+- **Releases**: 86 · **Merged PRs**: 32 · **Open PRs**: 1 · **Closed issues**: 33 · **Open issues**: 0 · **Commits**: 456
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 2 | 1 | 0 | 1 | 0 | 8 |
-| last60d | 2026-09-09 | 2 | 1 | 0 | 3 | 0 | 8 |
-| 90d | 2026-08-10 | 2 | 1 | 0 | 3 | 0 | 10 |
-| last180d | 2026-05-12 | 5 | 3 | 0 | 3 | 0 | 17 |
-| 360d | 2025-11-13 | 86 | 32 | 0 | 33 | 0 | 427 |
-| last720d | 2024-11-18 | 86 | 32 | 0 | 33 | 0 | 456 |
+| 30d | 2026-10-11 | 2 | 1 | 1 | 1 | 0 | 8 |
+| last60d | 2026-09-11 | 2 | 1 | 1 | 3 | 0 | 8 |
+| 90d | 2026-08-12 | 2 | 1 | 1 | 3 | 0 | 10 |
+| last180d | 2026-05-14 | 5 | 2 | 1 | 3 | 0 | 17 |
+| 360d | 2025-11-15 | 86 | 32 | 1 | 33 | 0 | 427 |
+| last720d | 2024-11-20 | 86 | 32 | 1 | 33 | 0 | 456 |
 
 ## Release assets
 
@@ -66,11 +66,11 @@ Total: **8,291** lines of code across **19** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **6** distros on [repology.org](https://repology.org/project/try-rs). **3** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+Reported by **6** distros on [repology.org](https://repology.org/project/try-rs). **4** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `1.7.13` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for try-rs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:57:43Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:18:05Z._
