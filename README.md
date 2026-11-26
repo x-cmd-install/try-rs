@@ -14,11 +14,11 @@ x install try-rs
 
 ## Code insight
 
-Total: **8,516** lines of code across **19** files in the top 5 languages.
+Total: **8,522** lines of code across **19** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 8,273 | 99 | 799 | 15 |
+| Rust | 8,279 | 99 | 799 | 15 |
 | Nix | 116 | 0 | 20 | 1 |
 | Toml | 83 | 1 | 12 | 1 |
 | Sh | 38 | 14 | 13 | 1 |
@@ -32,38 +32,37 @@ Total: **8,516** lines of code across **19** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.7.15` (2026-11-24)
-- **Last commit**: 2026-11-24
-- **Assets in release**: 5
+- **Latest**: `v1.7.17` (2026-11-26)
+- **Last commit**: 2026-11-26
+- **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 293 · **Forks**: 18 · **Open issues**: 34 · **Contributors**: 11
+- **Stars**: 293 · **Forks**: 19 · **Open issues**: 34 · **Contributors**: 14
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 32 · **Open PRs**: 1 · **Closed issues**: 33 · **Open issues**: 1 · **Commits**: 460
+- **Releases**: 90 · **Merged PRs**: 34 · **Open PRs**: 0 · **Closed issues**: 34 · **Open issues**: 0 · **Commits**: 464
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 4 | 0 | 1 | 0 | 1 | 11 |
-| last60d | 2026-09-26 | 4 | 1 | 1 | 3 | 1 | 12 |
-| 90d | 2026-08-27 | 4 | 1 | 1 | 3 | 1 | 12 |
-| last180d | 2026-05-29 | 6 | 2 | 1 | 3 | 1 | 17 |
-| 360d | 2025-11-30 | 88 | 32 | 1 | 33 | 1 | 431 |
-| last720d | 2024-12-05 | 88 | 32 | 1 | 33 | 1 | 460 |
+| 30d | 2026-10-27 | 6 | 2 | 0 | 1 | 0 | 14 |
+| last60d | 2026-09-27 | 6 | 3 | 0 | 4 | 0 | 15 |
+| 90d | 2026-08-28 | 6 | 3 | 0 | 4 | 0 | 15 |
+| last180d | 2026-05-30 | 7 | 4 | 0 | 4 | 0 | 20 |
+| 360d | 2025-12-01 | 90 | 34 | 0 | 34 | 0 | 434 |
+| last720d | 2024-12-06 | 90 | 34 | 0 | 34 | 0 | 464 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [try-rs-v1.7.15-linux-x86_64.tar.gz](https://github.com/tassiovirginio/try-rs/releases/download/v1.7.15/try-rs-v1.7.15-linux-x86_64.tar.gz) | 569.9 KiB | `native/linux/x64` |
-| [try-rs-v1.7.15-linux-x86_64.tar.gz.sha256](https://github.com/tassiovirginio/try-rs/releases/download/v1.7.15/try-rs-v1.7.15-linux-x86_64.tar.gz.sha256) | 101 B | `native/linux/x64` |
-| [try-rs-windows-x86_64.exe](https://github.com/tassiovirginio/try-rs/releases/download/v1.7.15/try-rs-windows-x86_64.exe) | 913.5 KiB | `native/win/x64` |
-| [try-rs_1.7.14-1_amd64.deb](https://github.com/tassiovirginio/try-rs/releases/download/v1.7.15/try-rs_1.7.14-1_amd64.deb) | 470.6 KiB | `runtime/deb/amd64` |
-| [try-rs_1.7.15-1_amd64.deb](https://github.com/tassiovirginio/try-rs/releases/download/v1.7.15/try-rs_1.7.15-1_amd64.deb) | 471.5 KiB | `runtime/deb/amd64` |
+| [try-rs-v1.7.17-linux-x86_64.tar.gz](https://github.com/tassiovirginio/try-rs/releases/download/v1.7.17/try-rs-v1.7.17-linux-x86_64.tar.gz) | 570.0 KiB | `native/linux/x64` |
+| [try-rs-v1.7.17-linux-x86_64.tar.gz.sha256](https://github.com/tassiovirginio/try-rs/releases/download/v1.7.17/try-rs-v1.7.17-linux-x86_64.tar.gz.sha256) | 101 B | `native/linux/x64` |
+| [try-rs-windows-x86_64.exe](https://github.com/tassiovirginio/try-rs/releases/download/v1.7.17/try-rs-windows-x86_64.exe) | 913.5 KiB | `native/win/x64` |
+| [try-rs_1.7.17-1_amd64.deb](https://github.com/tassiovirginio/try-rs/releases/download/v1.7.17/try-rs_1.7.17-1_amd64.deb) | 471.6 KiB | `runtime/deb/amd64` |
 
 ## Improve this data
 
@@ -74,4 +73,4 @@ Install metadata for try-rs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:06:14Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:18:01Z._
