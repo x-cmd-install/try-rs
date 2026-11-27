@@ -38,7 +38,7 @@ Total: **8,522** lines of code across **19** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 293 · **Forks**: 19 · **Open issues**: 34 · **Contributors**: 14
+- **Stars**: 292 · **Forks**: 19 · **Open issues**: 34 · **Contributors**: 14
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **8,522** lines of code across **19** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 6 | 2 | 0 | 1 | 0 | 14 |
-| last60d | 2026-09-27 | 6 | 3 | 0 | 4 | 0 | 15 |
-| 90d | 2026-08-28 | 6 | 3 | 0 | 4 | 0 | 15 |
-| last180d | 2026-05-30 | 7 | 4 | 0 | 4 | 0 | 20 |
-| 360d | 2025-12-01 | 90 | 34 | 0 | 34 | 0 | 434 |
-| last720d | 2024-12-06 | 90 | 34 | 0 | 34 | 0 | 464 |
+| 30d | 2026-10-28 | 6 | 2 | 0 | 1 | 0 | 14 |
+| last60d | 2026-09-28 | 6 | 3 | 0 | 3 | 0 | 15 |
+| 90d | 2026-08-29 | 6 | 3 | 0 | 4 | 0 | 15 |
+| last180d | 2026-05-31 | 7 | 4 | 0 | 4 | 0 | 20 |
+| 360d | 2025-12-02 | 90 | 34 | 0 | 34 | 0 | 434 |
+| last720d | 2024-12-07 | 90 | 34 | 0 | 34 | 0 | 464 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for try-rs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:18:01Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:02:11Z._
